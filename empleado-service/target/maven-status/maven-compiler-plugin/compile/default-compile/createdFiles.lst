@@ -1,0 +1,5 @@
+com\example\empleadoservice\EmpleadoServiceApplication.class
+com\example\empleadoservice\repository\EmpleadoRepository.class
+com\example\empleadoservice\service\EmpleadoService.class
+com\example\empleadoservice\entity\EmpleadoEntity.class
+com\example\empleadoservice\controller\EmpleadoController.class
